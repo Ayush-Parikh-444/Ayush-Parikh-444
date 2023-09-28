@@ -1,5 +1,5 @@
-### Hi 👋, I'm Ayush Parikh
-#### A second year Computer Engineering Student @ McMaster University
+## Hi 👋, I'm Ayush Parikh
+### A second year Computer Engineering Student @ McMaster University
 <!--
 **Ayush-Parikh-444/Ayush-Parikh-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
