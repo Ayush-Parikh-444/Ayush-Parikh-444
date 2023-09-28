@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Ayush Parikh
 
 <!--
 **Ayush-Parikh-444/Ayush-Parikh-444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
